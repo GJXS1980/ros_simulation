@@ -17,7 +17,9 @@ source ~/.bashrc
 ```
 
 *****
->参考链接：[Did ros-kinetic-gazebo-ros-control package release?](https://answers.ros.org/question/235846/did-ros-kinetic-gazebo-ros-control-package-release/)
+>参考链接：
+1.[Did ros-kinetic-gazebo-ros-control package release?](https://answers.ros.org/question/235846/did-ros-kinetic-gazebo-ros-control-package-release/)
+2.[Simulation Tools In ROS](https://github.com/ros-simulation)
 
 *****
 
