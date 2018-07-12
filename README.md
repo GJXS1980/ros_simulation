@@ -1,6 +1,6 @@
 ## ros_simulation
 *****
-编译步骤：
+Compilation Step：
 ```bash
 mkdir -p ~/ros_simulation/src
 cd ~/ros_simulation/src
@@ -17,7 +17,7 @@ source ~/.bashrc
 ```
 
 *****
->参考链接
+>Reference
 >
 >1.[Did ros-kinetic-gazebo-ros-control package release?](https://answers.ros.org/question/235846/did-ros-kinetic-gazebo-ros-control-package-release/)
 >
